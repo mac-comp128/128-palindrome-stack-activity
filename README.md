@@ -1,3 +1,3 @@
-# Project Title Goes Here
+# Palindrome Stack Activity
 
-Info about your project goes here
+Instructions are [here](https://docs.google.com/document/d/1OaEjqwbp8qSGOuwW46zjpiwBzqcjyIBKADUVfhVqSwA/edit?usp=sharing).
