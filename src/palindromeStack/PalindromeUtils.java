@@ -1,9 +1,13 @@
 package palindromeStack;
 
 public class PalindromeUtils {
-    //TODO: Add a reverse method
+    //TODO: Rewrite the reverse method to reverse the string s!
+    public static String reverse(String s) {
+        return s;
+    }
 
-    //TODO: Add a main method
-
-    //TODO: add an isPalindromeReverse method
+    //TODO: Write the isPalindromeReverse method
+    public static Boolean isPalindromeReverse(String s) {
+        return true;
+    }
 }
